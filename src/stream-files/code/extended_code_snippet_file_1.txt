@@ -1,0 +1,7 @@
+```
+def hello_world():
+    print('Hello, World!')
+    print('Welcome to this simple Python program.')
+
+hello_world()
+```
